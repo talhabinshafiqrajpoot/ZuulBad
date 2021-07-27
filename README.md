@@ -8,3 +8,10 @@ The Item used in this project are listed below :
 •	Medicine
 •	Torch
 •	Key
+If player is able to collect to unique set of  5 item then which are listed below :
+•	Rope
+•	Sword
+•	Armor
+•	Medicine
+•	Torch
+Then he/she wins the game otherwise better luck next time :)
